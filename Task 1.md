@@ -28,7 +28,7 @@
 
 <img src="https://drive.google.com/file/d/1pFfUFNuuhdNtn3UPJHpyCDMzlGbfsK7y/view?usp=sharing" alt="the fix to my error" title="error fix" />
 
-5. **Elaborate on code explanations:** Ensure that all code snippets are accompanied by detailed explanations of what each line does, and how it contributes to the overall functionality of the dApp. This will help developers understand the code better and make it easier for them to modify or build upon the tutorial. Going through the gasless part was a bit tough to follow.
+5. **Code explanations:** All the code explations are pretty concise and clear. I would not recommend any other way.
 
 6. **Include error handling and debugging tips:** Include common error messages that developers might encounter during the tutorial, along with suggestions on how to resolve them. This will help developers troubleshoot issues more efficiently.
 
